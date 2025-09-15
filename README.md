@@ -1,9 +1,9 @@
-# ClaimPilot — RAG Travel Insurance Copilot
+# RAG Travel Insurance Copilot  
 
-**Multilingual • Multi-format • Powered by Langflow + AstraDB**
+**Multilingual • Multi-format • Built with Langflow + AstraDB**  
 
-ClaimPilot is a Retrieval-Augmented Generation (RAG) demo that acts as a **travel insurance copilot**.  
-It can read policies, forms, tables, and certificates in **different formats** (PDF, CSV, DOCX, TXT) and **multiple languages** (French, German, Spanish, Hindi), then answer questions in **English with citations**.
+An Agentic **Retrieval-Augmented Generation (RAG) workflow** designed as a travel insurance copilot.  
+It ingests policies, forms, tables, and certificates across **multiple formats** (PDF, CSV, DOCX, TXT) and supports **multiple languages** (French, German, Spanish, Hindi). The system then delivers clear **answers in English with trusted citations**, making insurance claims faster, transparent, and easier to process.  
 
 ---
 
