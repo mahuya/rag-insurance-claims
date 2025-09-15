@@ -1,0 +1,12 @@
+version: "3.9"
+services:
+  claimpilot:
+    build: .
+    container_name: claimpilot
+    ports:
+      - "${LANGFLOW_PORT:-7860}:7860"
+    env_file:
+      - .env
+    volumes:
+      - ./flows:/app/flows
+      - ./data:/app/data

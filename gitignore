@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (optional: keep only small demo files)
+data/*
+!data/*.pdf
+!data/*.csv
+!data/*.txt
+!data/*.docx
