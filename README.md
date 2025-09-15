@@ -17,18 +17,18 @@ It can read policies, forms, tables, and certificates in **different formats** (
 
 ---
 
-## 🎥 Demo Video
+## Demo Video
 [![Watch the demo](https://img.youtube.com/vi/2nCh4GWpMBk/hqdefault.jpg)](https://youtu.be/2nCh4GWpMBk)
 
 👉 Click the thumbnail to watch the full walkthrough on YouTube.
 
-## 🏗️ Solution Diagram
+## Solution Diagram
 ![Solution Architecture](https://drive.google.com/uc?id=1s7pSAG5zpezN0FSWHz6pYUkHmrwSFKko)
 *(Diagram showing ingestion → vector storage in AstraDB → Langflow orchestration → RAG responses with citations.)*
 
 ---
 
-## 📂 Repo Structure
+## Repo Structure
 ```
 claimpilot-rag/
 ├─ README.md
@@ -45,11 +45,11 @@ claimpilot-rag/
 
 ---
 
-## 🏁 Quickstart
+## Quickstart
 Full setup instructions will follow (Python, Docker, Astra DB).  
 For now, clone the repo and explore the flow in `/flows`.
 
 ---
 
-## 📜 License
+## License
 MIT — free to use, modify, and share.
