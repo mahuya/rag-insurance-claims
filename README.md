@@ -17,7 +17,7 @@ It can read policies, forms, tables, and certificates in **different formats** (
 
 ---
 
-## 🎥 Demo Video
+## Demo Video
 [![Watch the demo](https://img.youtube.com/vi/Fd3-hpZlfPA/hqdefault.jpg)](https://youtu.be/Fd3-hpZlfPA)
 
 👉 Click the thumbnail to watch the full walkthrough on YouTube.
