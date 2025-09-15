@@ -1,0 +1,5 @@
+insurer,product,version,region,effective_date,benefit,max_usd,deductible_usd,waiting_period_days,notes
+SafeTravel,TravelPlus,v3,APAC,1/1/2025,Baggage Loss,1500,100,,Laptop theft covered if reported within 24h
+SafeTravel,TravelPlus,v2,APAC,1/1/2024,Baggage Loss,1200,150,,Older version for comparison
+SafeTravel,HealthCore,v2,IND,10/1/2023,Appendicitis Surgery,30000,,90,Waiting period applies
+SafeTravel,TravelPlus,v3,APAC,1/1/2025,Accidental Hospitalization,20000,,,Cashless network available
