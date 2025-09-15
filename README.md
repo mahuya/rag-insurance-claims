@@ -7,7 +7,7 @@ It can read policies, forms, tables, and certificates in **different formats** (
 
 ---
 
-## 🚀 Features
+## Features
 - Multilingual document support (FR, DE, ES, HI)
 - Multi-format ingestion (PDF, CSV, DOCX, TXT)
 - Vector storage in **Astra DB** with 768-dim multilingual embeddings
