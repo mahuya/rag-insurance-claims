@@ -17,6 +17,13 @@ It can read policies, forms, tables, and certificates in **different formats** (
 
 ---
 
+## 🎥 Demo Video
+[![Watch the demo](https://img.youtube.com/vi/Fd3-hpZlfPA/hqdefault.jpg)](https://youtu.be/Fd3-hpZlfPA)
+
+👉 Click the thumbnail to watch the full walkthrough on YouTube.
+
+---
+
 ## Solution Diagram
 ![Solution Architecture](https://drive.google.com/uc?id=1s7pSAG5zpezN0FSWHz6pYUkHmrwSFKko)
 *(Diagram showing ingestion → vector storage in AstraDB → Langflow orchestration → RAG responses with citations.)*
