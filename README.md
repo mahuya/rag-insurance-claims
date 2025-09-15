@@ -32,7 +32,7 @@ It ingests policies, forms, tables, and certificates across **multiple formats**
 
 ## Repo Structure
 ```
-claimpilot-rag/
+rag-insurance-claims/
 ├─ README.md
 ├─ LICENSE
 ├─ .gitignore
