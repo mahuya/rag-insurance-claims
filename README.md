@@ -35,8 +35,8 @@ It ingests policies, forms, tables, and certificates across **multiple formats**
 rag-insurance-claims/
 ├─ README.md
 ├─ LICENSE
-├─ .gitignore
-├─ .env.example
+├─ gitignore
+├─ env.example
 ├─ requirements.txt
 ├─ Dockerfile
 ├─ docker-compose.yml
