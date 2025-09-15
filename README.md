@@ -42,7 +42,7 @@ rag-insurance-claims/
 ├─ docker-compose.yml
 ├─ flows/   # Langflow JSON exports
 ├─ data/    # Sample docs (PDF, CSV, DOCX, TXT)
-└─ scripts/ # Optional Astra helper scripts
+└─ scripts/ # AstraDB helper scripts
 ```
 
 ---
