@@ -17,6 +17,16 @@ It can read policies, forms, tables, and certificates in **different formats** (
 
 ---
 
+## 🎥 Demo Video
+[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
+👉 Click the thumbnail to watch the full walkthrough on YouTube.
+
+## 🏗️ Solution Diagram
+![Solution Architecture](docs/solution-diagram.png)  
+*(Diagram showing ingestion → vector storage in AstraDB → Langflow orchestration → RAG responses with citations.)*
+
+---
+
 ## 📂 Repo Structure
 ```
 claimpilot-rag/
